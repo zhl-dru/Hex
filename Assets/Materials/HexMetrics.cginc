@@ -1,0 +1,2 @@
+﻿#define CHUNK_SIZE_X 5
+#define TILING_NOISE_SCALE (1 / (CHUNK_SIZE_X * 20 / 0.866025404))
